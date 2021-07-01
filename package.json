@@ -1,6 +1,6 @@
 {
   "name": "chevereto",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "main": "lib/index.js",
   "repository": "https://github.com/f97/chevereto.git",
   "author": "Huynh Duc Khoan <huynhduckhoan@gmail.com>",
